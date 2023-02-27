@@ -4,6 +4,9 @@ Curated list of queryable linked open data endpoints.
 
 To add something to the list please either submit a pull request or recommend something awesome via issue.
 
+Looking for something but can't find it? Add it to the [Wishlist](WISHLIST.md) and we'll keep an eye out for it. If it's a good idea maybe someone will come along and create it!
+
+
 ## SPARQL Endpoints
 
 * [OpenAire.eu](https://lod.openaire.eu/) - Data about reasearch and institutions
