@@ -14,3 +14,4 @@ Looking for something but can't find it? Add it to the [Wishlist](WISHLIST.md) a
 * [Mondial-Database-Sparql Endpoint](https://www.semwebtech.org/mondial/10/) - Facts about earth and nations
 * [Triply's DB-Pedia Endpoint](https://triplydb.com/DBpedia-association/dbpedia/sparql/dbpedia)
 * [Triply's Iris Dataset Endpoint](https://triplydb.com/Triply/iris/sparql/iris)
+* [Gene Ontology KG](http://geneontology.org/sparql.html)
